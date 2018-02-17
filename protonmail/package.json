@@ -1,0 +1,23 @@
+{
+  "id": "protonmail",
+  "name": "ProtonMail",
+  "version": "1.0.0",
+  "description": "ProtonMail",
+  "main": "index.js",
+  "author": "Gorjan Jovanovski <hey@gorjan.rocks>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.protonmail.com/",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasPredefinedUrl": false,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

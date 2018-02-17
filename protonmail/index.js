@@ -1,0 +1,8 @@
+"use strict";
+
+// just pass through Franz
+
+module.exports = function (Franz) {
+  return Franz;
+};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1lc3Nlbmdlci9pbmRleC5qcyJdLCJuYW1lcyI6WyJtb2R1bGUiLCJleHBvcnRzIiwiRnJhbnoiXSwibWFwcGluZ3MiOiJBQUFBOztBQUVBOztBQUNBQSxPQUFPQyxPQUFQLEdBQWlCLFVBQVVDLEtBQVYsRUFBaUI7QUFDaEMsU0FBT0EsS0FBUDtBQUNELENBRkQiLCJmaWxlIjoibWVzc2VuZ2VyL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2Ugc3RyaWN0XCI7XG5cbi8vIGp1c3QgcGFzcyB0aHJvdWdoIEZyYW56XG5tb2R1bGUuZXhwb3J0cyA9IGZ1bmN0aW9uIChGcmFueikge1xuICByZXR1cm4gRnJhbno7XG59OyJdfQ==
